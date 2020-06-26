@@ -1,6 +1,6 @@
 {
   "name": "@newrelic/webpack-plugin",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "An experimental plugin to allow New Relic's NodeJS Agent to work with webpack compiled server side javascript.",
   "scripts": {
     "test": "tap tests"
