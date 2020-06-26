@@ -1,0 +1,48 @@
+{
+  "lastUpdated": "Fri Jun 26 2020 10:28:44 GMT-0700 (Pacific Daylight Time)",
+  "projectName": "New Relic Webpack Plugin",
+  "projectUrl": "https://github.com/newrelic-experimental/newrelic-webpack-plugin",
+  "includeDev": true,
+  "dependencies": {
+    "webpack-node-externals@1.7.2": {
+      "name": "webpack-node-externals",
+      "version": "1.7.2",
+      "range": "^1.7.2",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/liady/webpack-node-externals",
+      "versionedRepoUrl": "https://github.com/liady/webpack-node-externals/tree/v1.7.2",
+      "licenseFile": "node_modules/webpack-node-externals/LICENSE",
+      "licenseUrl": "https://github.com/liady/webpack-node-externals/blob/v1.7.2/LICENSE",
+      "licenseTextSource": "file",
+      "publisher": "Liad Yosef",
+      "url": "https://github.com/liady"
+    }
+  },
+  "devDependencies": {
+    "tap@14.10.7": {
+      "name": "tap",
+      "version": "14.10.7",
+      "range": "^14.10.7",
+      "licenses": "ISC",
+      "repoUrl": "https://github.com/tapjs/node-tap",
+      "versionedRepoUrl": "https://github.com/tapjs/node-tap/tree/v14.10.7",
+      "licenseFile": "node_modules/tap/LICENSE",
+      "licenseUrl": "https://github.com/tapjs/node-tap/blob/v14.10.7/LICENSE",
+      "licenseTextSource": "file",
+      "publisher": "Isaac Z. Schlueter",
+      "email": "i@izs.me",
+      "url": "http://blog.izs.me"
+    },
+    "webpack-cli@3.3.9": {
+      "name": "webpack-cli",
+      "version": "3.3.9",
+      "range": "^3.3.9",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/webpack/webpack-cli",
+      "versionedRepoUrl": "https://github.com/webpack/webpack-cli/tree/v3.3.9",
+      "licenseFile": "node_modules/webpack-cli/LICENSE",
+      "licenseUrl": "https://github.com/webpack/webpack-cli/blob/v3.3.9/LICENSE",
+      "licenseTextSource": "file"
+    }
+  }
+}
