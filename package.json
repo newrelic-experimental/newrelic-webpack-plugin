@@ -1,0 +1,18 @@
+{
+  "name": "@newrelic/webpack-plugin",
+  "version": "0.4.1",
+  "description": "An experimental plugin to allow New Relic's NodeJS Agent to work with webpack compiled server side javascript.",
+  "main": "",
+  "scripts": {
+    "test": "tap tests"
+  },
+  "author": "NodeJS Team <nodejs@newrelic.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "webpack-node-externals": "^1.7.2"
+  },
+  "devDependencies": {
+    "tap": "^14.10.7",
+    "webpack-cli": "^3.3.9"
+  }
+}
