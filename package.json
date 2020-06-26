@@ -2,7 +2,6 @@
   "name": "@newrelic/webpack-plugin",
   "version": "0.4.1",
   "description": "An experimental plugin to allow New Relic's NodeJS Agent to work with webpack compiled server side javascript.",
-  "main": "",
   "scripts": {
     "test": "tap tests"
   },
@@ -14,5 +13,9 @@
   "devDependencies": {
     "tap": "^14.10.7",
     "webpack-cli": "^3.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newrelic-experimental/newrelic-webpack-plugin"
   }
 }
