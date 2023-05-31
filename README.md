@@ -71,9 +71,7 @@ You can run tests for this repository via npm
 
 ## Support
 
-New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub. You can find this project's topic/threads here:
-
-https://discuss.newrelic.com/t/experimental-webpack-plugin-for-nodejs/88068/20
+New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub. You can find this project's topic/threads [here](https://forum.newrelic.com).
 
 ## Contributing
 
